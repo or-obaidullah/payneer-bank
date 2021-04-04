@@ -1,0 +1,30 @@
+#validText{
+    color: red;
+    font-size: 15px;
+    display: none;
+}
+.submit-area{
+    margin-top: 80px;
+    padding: 40px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+#transaction-area{
+    display: none;
+    margin-top: 80px;
+}
+.deposit{
+    background: slateblue;
+}
+.balance{
+    background-color: lightsalmon;
+}
+.withdraw{
+    background-color: orange;
+}
+.status{
+    padding: 20px;
+    color: #fff;
+    border-radius: 10px;
+    margin: 5px 20px
+}
